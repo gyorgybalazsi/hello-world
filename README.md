@@ -13,3 +13,5 @@ And also I deleted the last line of the previous commit.
 This is the second local edit.
 
 This is also an edit to the readme file.
+
+This is the second local edit, after I have merged and deleted the pevious local edit branch.
